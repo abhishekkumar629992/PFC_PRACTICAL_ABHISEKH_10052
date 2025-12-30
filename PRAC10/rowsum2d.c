@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    // ADITYA 10097
+    // Abhishek Kumar
+    // RU 10052
     int r, c;
 
     printf("Enter number of rows and columns: ");
