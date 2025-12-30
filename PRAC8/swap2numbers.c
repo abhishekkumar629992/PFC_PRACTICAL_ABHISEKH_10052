@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+// Abhishek Kumar
+// RU 10052
 void swap(int *a, int *b) {
     int temp = *a;
     *a = *b;
@@ -7,8 +8,6 @@ void swap(int *a, int *b) {
 }
 
 int main() {
-    // Abhishek Kumar
-    // RU-25-10052
     int x, y;
 
     printf("Enter two numbers: ");
